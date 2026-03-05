@@ -1,2 +1,2 @@
 console.log('comfig.js');
-console.log('version3');
+console.log('version12');
